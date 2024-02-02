@@ -1,4 +1,4 @@
-## Openinapp_Task
+# VACATION EMAIL REPLIER
 This cutting-edge tool effortlessly
 1. checks your Gmail inbox.
 2. responds to new emails without prior replies
